@@ -1,1 +1,2 @@
-# Bharat-Inter
+# Bharat-Intern
+Bharat Internship is a dynamic platform dedicated to providing students and professionals with hands-on learning experiences. It bridges the gap between academic knowledge and practical application. With a wide array of projects and mentorship opportunities, participants gain real-world skills. It's an excellent stepping stone for those looking to enhance their careers. Join Bharat Internship to unlock your potential and make impactful contributions!
